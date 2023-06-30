@@ -212,3 +212,6 @@ print(boite1.__str__())
 boite1.add_tool(marteau1)
 boite1.add_tool(tourn2)
 print(boite1.__str__())
+print(boite1)
+
+print(nail1)
